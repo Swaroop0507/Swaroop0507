@@ -12,9 +12,9 @@
  
  🔭 I’m currently working on **a marketplace**
  
- 🌱 I’m currently learning **NoSQL, NLP, AWS**
+ 🌱 I’m currently learning **NoSQL, NLP, Three.js**
 
-💬 Ask me about **Node.js, React, Firebase... or anything [here](https://github.com/Swaroop0507/Swaroop0507/issues)**
+💬 Ask me about **SQL, ML, DL**
 
 ⚡ Fun fact **Game of Thrones Night's Watch cloaks are made from Ikea rugs**
 
